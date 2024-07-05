@@ -18,3 +18,7 @@ jobs:
 
     - name: Display Config
       run: cat Config.txt
+      
+    - name: Display New Config
+      run: cat NewConfig.txt
+  
